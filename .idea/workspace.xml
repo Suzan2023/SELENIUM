@@ -4,28 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7bfedc63-efe3-4268-a143-0c43277a8b58" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/driver/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/driver/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day01/BrowserControlComments.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day01/Homework_NavigationCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day01/Homework_WindowCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day01/NavigationCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day01/Selenium Day 1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day01/WindowCommands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day01/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day02/FirefoxTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day02/FirefoxVerifyTitle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day02/WindowCommand2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Day02/WindowCommands3.java" afterDir="false" />
+    <list default="true" id="7bfedc63-efe3-4268-a143-0c43277a8b58" name="Changes" comment="Selenium Day 1 added">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Day02/Homework_WindowCommandsHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day03/C01_WebDriverManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day03/C02_FirstTestClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day03/C03_Assertions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day03/C04_AssertionMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day03/Day3AssertionHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day03/Day3WebdriverManagerHomework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day04/C01_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day04/C02_WebElementsCommands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day04/C03_Xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day04/image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day04/imageLocators.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day04/image_Annotations.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day04/ozet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Day05/C01_XPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/Base.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/imageCssSelector.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Utilities/imageTextMetotlari.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/BrowserControlComments.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/BrowserControlComments.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/Homework_BrowserCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/Homework_BrowserCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/Homework_NavigationCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/Homework_NavigationCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/Homework_WindowCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/Homework_WindowCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/NavigationCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/NavigationCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/Selenium Day 1" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/Selenium Day 1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/WindowCommands.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/WindowCommands.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day01/image.png" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day01/image.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day02/FirefoxTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day02/FirefoxTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day02/FirefoxVerifyTitle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day02/FirefoxVerifyTitle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day02/WindowCommand2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day02/WindowCommand2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day02/WindowCommands3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Day02/WindowCommands3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,7 +76,8 @@
     &quot;last_opened_file_path&quot;: &quot;C:/Users/suzan/IdeaProjects/SELENIUM/resources/library/selenium-support-4.8.3.jar&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -74,83 +86,100 @@
       <recent name="C:\Users\suzan\IdeaProjects\SELENIUM\resources\library" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\suzan\IdeaProjects\SELENIUM\src\test\java\Utilities" />
+      <recent name="C:\Users\suzan\IdeaProjects\SELENIUM\src\test\java\Day04" />
       <recent name="C:\Users\suzan\IdeaProjects\SELENIUM\resources\driver" />
       <recent name="C:\Users\suzan\IdeaProjects\SELENIUM\src\test\java\Day01" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FirefoxVerifyTitle">
-    <configuration name="FirefoxTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.FirefoxTest" />
+  <component name="RunManager" selected="JUnit.C01_XPath.test01">
+    <configuration name="C01_Locators.linkText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day04" />
+      <option name="MAIN_CLASS_NAME" value="Day04.C01_Locators" />
+      <option name="METHOD_NAME" value="linkText" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirefoxVerifyTitle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.FirefoxVerifyTitle" />
+    <configuration name="C01_Locators.locatorStratejies" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day04" />
+      <option name="MAIN_CLASS_NAME" value="Day04.C01_Locators" />
+      <option name="METHOD_NAME" value="locatorStratejies" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Homework_WindowCommands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day01.Homework_WindowCommands" />
+    <configuration name="C01_Locators.partialLinkText" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day01.*" />
+          <option name="PATTERN" value="Day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day04" />
+      <option name="MAIN_CLASS_NAME" value="Day04.C01_Locators" />
+      <option name="METHOD_NAME" value="partialLinkText" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowCommand2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.WindowCommand2" />
+    <configuration name="C01_XPath.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Day05.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day05" />
+      <option name="MAIN_CLASS_NAME" value="Day05.C01_XPath" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WindowCommands3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02.WindowCommands3" />
+    <configuration name="C02_WebElementsCommands.webElementsCommands" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SELENIUM" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Day02.*" />
+          <option name="PATTERN" value="Day04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="Day04" />
+      <option name="MAIN_CLASS_NAME" value="Day04.C02_WebElementsCommands" />
+      <option name="METHOD_NAME" value="webElementsCommands" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FirefoxVerifyTitle" />
-        <item itemvalue="Application.FirefoxTest" />
-        <item itemvalue="Application.WindowCommands3" />
-        <item itemvalue="Application.WindowCommand2" />
-        <item itemvalue="Application.Homework_WindowCommands" />
+        <item itemvalue="JUnit.C01_XPath.test01" />
+        <item itemvalue="JUnit.C01_Locators.partialLinkText" />
+        <item itemvalue="JUnit.C01_Locators.linkText" />
+        <item itemvalue="JUnit.C02_WebElementsCommands.webElementsCommands" />
+        <item itemvalue="JUnit.C01_Locators.locatorStratejies" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +192,33 @@
       <option name="presentableId" value="Default" />
       <updated>1681333736716</updated>
     </task>
+    <task id="LOCAL-00001" summary="homework">
+      <created>1681463484836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681463484836</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Selenium Day 1 added">
+      <created>1681463808981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681463808981</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Selenium Day 1 added">
+      <created>1681585533590</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681585533590</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="homework" />
+    <MESSAGE value="Selenium Day 1 added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Selenium Day 1 added" />
   </component>
 </project>
