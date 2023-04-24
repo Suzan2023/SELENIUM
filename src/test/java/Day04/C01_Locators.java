@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 public class C01_Locators {
-    //LOCATORS  (*bir uygulama icinde WebElements bulmak icin 8locator turu vardir)
+    //LOCATORS  (*bir uygulama icinde WebElements bulmak icin 8 locator turu vardir)
 
     // ID
     // ID locator aslinda bir webelementin id attribute udur.
