@@ -16,11 +16,11 @@ WebElement Commands
     click()
     clear()
     submit()
-    isDisplayed()
-    isEnabled()
-    isSelected()
-    getAttribute()
-    getText()
+    isDisplayed()  ->boolean deger return eder. Assertionlarda kullanilabilir
+    isEnabled()     ->boolean deger return eder. Assertionlarda kullanilabilir
+    isSelected()    ->boolean deger return eder. Assertionlarda kullanilabilir
+    getAttribute()  ->Srring deger return eder. Assertionlarda kullanilabilir
+    getText()       ->String deger return eder. Assertionlarda kullanilabilir
 XPath
     Absolute vs Relative xpath
         Absolute -> /html/body/..../input  (absolute xpath stabil olmayacagindan kesinlikle kaciniyoruz)
