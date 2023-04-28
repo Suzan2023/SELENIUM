@@ -11,7 +11,8 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
 
-public class Base {
+public abstract class Base {
+
     protected WebDriver driver; // baska package lardan extende edilen class lar icin protected
     protected Faker faker = new Faker();
 
@@ -27,6 +28,8 @@ public class Base {
     public void teardown(){
         //driver.quit();
     }
+
+
 
     public void waitAndClick(WebDriver driver, WebElement element){
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(10));
