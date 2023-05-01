@@ -6,14 +6,17 @@ import org.junit.Before;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
+import javax.swing.*;
 import java.time.Duration;
 
 public abstract class Base {
 
     protected WebDriver driver; // baska package lardan extende edilen class lar icin protected
+    protected Actions actions; //actions metodu olusturuldu
     protected Faker faker = new Faker();
 
     @Before
@@ -22,6 +25,7 @@ public abstract class Base {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(5));
+        actions=new Actions((driver));
     }
 
     @After
