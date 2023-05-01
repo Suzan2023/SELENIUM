@@ -16,7 +16,7 @@ import java.time.Duration;
 public abstract class Base {
 
     protected WebDriver driver; // baska package lardan extende edilen class lar icin protected
-    protected Actions actions; //actions metodu olusturuldu
+    protected Actions actions; //actions metodu olusturuldu,diger claslarda actionsu cagirirken kullanmak icin
     protected Faker faker = new Faker();
 
     @Before
