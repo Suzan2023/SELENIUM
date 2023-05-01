@@ -49,7 +49,7 @@ public class C02_JSExecutor extends Base {
         jse.executeScript("arguments[0].scrollIntoView()", driver.findElement(By.id("gw-sign-in-button")));
 
 
-        for (int i = 0; i < 50; i++) {
+        for (int i = 0; i < 50; i++) {        //scrolu 50 defa 30birim asagi,200 ms hizda yapmak icin for dongusu kullandik
             jse.executeScript("window.scrollBy(0,30);");
             Thread.sleep(200);
 
