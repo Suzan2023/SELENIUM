@@ -1,14 +1,17 @@
 package EllyHocaTASKCOZUMU.Day1;
 
-import org.junit.Assert;
+import Utilities.Base;
 import org.junit.Test;
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import utilities.TestBase;
 
-public class T24_ActionsHomework1 extends TestBase {
+
+import static EllyHocaTASKCOZUMU.Day1.T04_LocatorHomework2.driver;
+
+public class T24_ActionsHomework1 extends Base {
 /*
     Go to URL: http://demo.guru99.com/test/drag_drop.html
     Drag and drop the BANK button to the Account section in DEBIT SIDE
@@ -17,7 +20,7 @@ public class T24_ActionsHomework1 extends TestBase {
     Drag and drop the second 5000 button to the Amount section in CREDIT SIDE
     Verify the visibility of Perfect text.
  */
-
+@Test
     public void test() throws InterruptedException {
         driver.get("http://demo.guru99.com/test/drag_drop.html");
 

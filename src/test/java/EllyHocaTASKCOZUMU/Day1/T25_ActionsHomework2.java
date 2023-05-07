@@ -1,12 +1,13 @@
 package EllyHocaTASKCOZUMU.Day1;
 
+import Utilities.Base;
 import org.junit.Test;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import utilities.TestBase;
 
-public class T25_ActionsHomework2 extends TestBase {
+
+public class T25_ActionsHomework2 extends Base {
 
     /*
     Go to URL: https://rangeslider.js.org/
@@ -30,5 +31,10 @@ public class T25_ActionsHomework2 extends TestBase {
 
 
     }
-
+/*
+Bu test, range slider'ın doğru şekilde çalıştığını doğrulamak için yapılıyor,
+İlk olarak slider'ı sağa sürükleyerek "js-output" elementinin değerinin değişip değişmediğini kontrol ediyoruz.
+Ardından slider'ı sola sürükleyerek "js-output" elementinin değerinin orijinal değere geri dönüp dönmediğini
+kontrol ediyoruz.
+ */
 }
