@@ -21,7 +21,7 @@ public class C04_Screenshots extends Base {
         // Son olarak alinan goruntuyu dosyaya yaziyoruz (.png, .jpg)
 
         driver.get("https://www.linkedin.com/");
-        TakesScreenshot ts = (TakesScreenshot) driver;
+        TakesScreenshot ts= (TakesScreenshot) driver;
 
         File source = ts.getScreenshotAs(OutputType.FILE);
 
@@ -31,6 +31,5 @@ public class C04_Screenshots extends Base {
         //FileHandler.copy(source, new File(".\\test-output\\photo.png"));
 
     }
-
 
 }
